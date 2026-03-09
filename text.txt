@@ -1,1 +1,1 @@
-Goodbye world ssh 1 reset stash merge
+Goodbye world ssh 1 reset stash rebase
